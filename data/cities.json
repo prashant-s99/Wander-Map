@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "4ef7",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-16T14:03:18.039Z",
+      "notes": "jhsbfjahsbch",
+      "position": {
+        "lat": "28.641249471063176",
+        "lng": "77.15389251708986"
+      }
+    }
+  ]
+}
