@@ -7,7 +7,7 @@ import {
 } from "react";
 import axios from "axios";
 
-const BASE_URL = "https://8196-106-219-122-50.ngrok-free.app/";
+const BASE_URL = "https://8196-106-219-122-50.ngrok-free.app";
 const CitiesContext = createContext();
 
 const initialCityState = {
